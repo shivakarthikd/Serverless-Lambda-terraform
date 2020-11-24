@@ -5,6 +5,8 @@
 *.tfstate
 *.tfstate.*
 
+#ignore exe
+*.exe
 # Crash log files
 crash.log
 
